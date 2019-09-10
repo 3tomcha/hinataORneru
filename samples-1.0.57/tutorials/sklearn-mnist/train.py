@@ -3,6 +3,10 @@ import argparse
 import os
 import numpy as np
 
+
+#ためしに追加してみる
+import cv2
+
 from sklearn.linear_model import LogisticRegression
 from sklearn.externals import joblib
 
