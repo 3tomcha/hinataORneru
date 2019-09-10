@@ -1,0 +1,3973 @@
+{
+ "entries": [
+  {
+   "filename": "auto-ml-classification.ipynb",
+   "name": "auto-ml-classification",
+   "path": "how-to-use-azureml/automated-machine-learning/classification/auto-ml-classification.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-classification-bank-marketing.ipynb",
+   "name": "auto-ml-classification-bank-marketing",
+   "path": "how-to-use-azureml/automated-machine-learning/classification-bank-marketing/auto-ml-classification-bank-marketing.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "v-rasav"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-classification-credit-card-fraud.ipynb",
+   "name": "auto-ml-classification-credit-card-fraud",
+   "path": "how-to-use-azureml/automated-machine-learning/classification-credit-card-fraud/auto-ml-classification-credit-card-fraud.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "v-rasav"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-classification-with-deployment.ipynb",
+   "name": "auto-ml-classification-with-deployment",
+   "path": "how-to-use-azureml/automated-machine-learning/classification-with-deployment/auto-ml-classification-with-deployment.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-classification-with-onnx.ipynb",
+   "name": "auto-ml-classification-with-onnx",
+   "path": "how-to-use-azureml/automated-machine-learning/classification-with-onnx/auto-ml-classification-with-onnx.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-classification-with-whitelisting.ipynb",
+   "name": "auto-ml-classification-with-whitelisting",
+   "path": "how-to-use-azureml/automated-machine-learning/classification-with-whitelisting/auto-ml-classification-with-whitelisting.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-dataset.ipynb",
+   "name": "auto-ml-dataset",
+   "path": "how-to-use-azureml/automated-machine-learning/dataset/auto-ml-dataset.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-dataset-remote-execution.ipynb",
+   "name": "auto-ml-dataset-remote-execution",
+   "path": "how-to-use-azureml/automated-machine-learning/dataset-remote-execution/auto-ml-dataset-remote-execution.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-exploring-previous-runs.ipynb",
+   "name": "auto-ml-exploring-previous-runs",
+   "path": "how-to-use-azureml/automated-machine-learning/exploring-previous-runs/auto-ml-exploring-previous-runs.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-forecasting-bike-share.ipynb",
+   "name": "auto-ml-forecasting-bike-share",
+   "path": "how-to-use-azureml/automated-machine-learning/forecasting-bike-share/auto-ml-forecasting-bike-share.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "erwright"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-forecasting-energy-demand.ipynb",
+   "name": "auto-ml-forecasting-energy-demand",
+   "path": "how-to-use-azureml/automated-machine-learning/forecasting-energy-demand/auto-ml-forecasting-energy-demand.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "erwright"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-forecasting-orange-juice-sales.ipynb",
+   "name": "auto-ml-forecasting-orange-juice-sales",
+   "path": "how-to-use-azureml/automated-machine-learning/forecasting-orange-juice-sales/auto-ml-forecasting-orange-juice-sales.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "erwright"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-missing-data-blacklist-early-termination.ipynb",
+   "name": "auto-ml-missing-data-blacklist-early-termination",
+   "path": "how-to-use-azureml/automated-machine-learning/missing-data-blacklist-early-termination/auto-ml-missing-data-blacklist-early-termination.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-model-explanation.ipynb",
+   "name": "auto-ml-model-explanation",
+   "path": "how-to-use-azureml/automated-machine-learning/model-explanation/auto-ml-model-explanation.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "xif"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-regression.ipynb",
+   "name": "auto-ml-regression",
+   "path": "how-to-use-azureml/automated-machine-learning/regression/auto-ml-regression.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-regression-concrete-strength.ipynb",
+   "name": "auto-ml-regression-concrete-strength",
+   "path": "how-to-use-azureml/automated-machine-learning/regression-concrete-strength/auto-ml-regression-concrete-strength.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.1"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "v-rasav"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-regression-hardware-performance.ipynb",
+   "name": "auto-ml-regression-hardware-performance",
+   "path": "how-to-use-azureml/automated-machine-learning/regression-hardware-performance/auto-ml-regression-hardware-performance.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.1"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "v-rasav"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-remote-amlcompute.ipynb",
+   "name": "auto-ml-remote-amlcompute",
+   "path": "how-to-use-azureml/automated-machine-learning/remote-amlcompute/auto-ml-remote-amlcompute.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-remote-amlcompute-with-onnx.ipynb",
+   "name": "auto-ml-remote-amlcompute-with-onnx",
+   "path": "how-to-use-azureml/automated-machine-learning/remote-amlcompute-with-onnx/auto-ml-remote-amlcompute-with-onnx.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-sample-weight.ipynb",
+   "name": "auto-ml-sample-weight",
+   "path": "how-to-use-azureml/automated-machine-learning/sample-weight/auto-ml-sample-weight.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-sparse-data-train-test-split.ipynb",
+   "name": "auto-ml-sparse-data-train-test-split",
+   "path": "how-to-use-azureml/automated-machine-learning/sparse-data-train-test-split/auto-ml-sparse-data-train-test-split.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-sql-energy-demand.ipynb",
+   "name": "auto-ml-sql-energy-demand",
+   "path": "how-to-use-azureml/automated-machine-learning/sql-server/energy-demand/auto-ml-sql-energy-demand.ipynb",
+   "keys": {
+    "language_info": {
+     "name": "sql",
+     "version": ""
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning",
+     "sql-server"
+    ],
+    "authors": [
+     {
+      "name": "jeffshep"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-sql-setup.ipynb",
+   "name": "auto-ml-sql-setup",
+   "path": "how-to-use-azureml/automated-machine-learning/sql-server/setup/auto-ml-sql-setup.ipynb",
+   "keys": {
+    "language_info": {
+     "name": "sql",
+     "version": ""
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning",
+     "sql-server"
+    ],
+    "authors": [
+     {
+      "name": "jeffshep"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-ml-subsampling-local.ipynb",
+   "name": "auto-ml-subsampling-local",
+   "path": "how-to-use-azureml/automated-machine-learning/subsampling/auto-ml-subsampling-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "automated-machine-learning"
+    ],
+    "authors": [
+     {
+      "name": "rogehe"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "automl_hdi_local_classification.ipynb",
+   "name": "automl_hdi_local_classification",
+   "path": "how-to-use-azureml/azure-hdi/automl_hdi_local_classification.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "python",
+      "version": 3
+     },
+     "mimetype": "text/x-python",
+     "name": "pyspark3",
+     "pygments_lexer": "python3"
+    },
+    "categories": [
+     "how-to-use-azureml"
+    ],
+    "authors": [
+     {
+      "name": "savitam"
+     },
+     {
+      "name": "sasum"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "model-register-and-deploy.ipynb",
+   "name": "model-register-and-deploy",
+   "path": "how-to-use-azureml/deploy-to-cloud/model-register-and-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.0"
+    },
+    "categories": [
+     "how-to-use-azureml"
+    ],
+    "authors": [
+     {
+      "name": "aashishb"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "register-model-deploy-local-advanced.ipynb",
+   "name": "register-model-deploy-local-advanced",
+   "path": "how-to-use-azureml/deploy-to-local/register-model-deploy-local-advanced.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.0"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deploy-to-local"
+    ],
+    "authors": [
+     {
+      "name": "keriehm"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "register-model-deploy-local.ipynb",
+   "name": "register-model-deploy-local",
+   "path": "how-to-use-azureml/deploy-to-local/register-model-deploy-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.0"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deploy-to-local"
+    ],
+    "authors": [
+     {
+      "name": "keriehm"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "accelerated-models-object-detection.ipynb",
+   "name": "accelerated-models-object-detection",
+   "path": "how-to-use-azureml/deployment/accelerated-models/accelerated-models-object-detection.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.5.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "accelerated-models"
+    ],
+    "authors": [
+     {
+      "name": "coverste"
+     },
+     {
+      "name": "paledger"
+     },
+     {
+      "name": "sukha"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "accelerated-models-quickstart.ipynb",
+   "name": "accelerated-models-quickstart",
+   "path": "how-to-use-azureml/deployment/accelerated-models/accelerated-models-quickstart.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.5.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "accelerated-models"
+    ],
+    "authors": [
+     {
+      "name": "coverste"
+     },
+     {
+      "name": "paledger"
+     },
+     {
+      "name": "aibhalla"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "accelerated-models-training.ipynb",
+   "name": "accelerated-models-training",
+   "path": "how-to-use-azureml/deployment/accelerated-models/accelerated-models-training.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.5.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "accelerated-models"
+    ],
+    "authors": [
+     {
+      "name": "coverste"
+     },
+     {
+      "name": "paledger"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "enable-app-insights-in-production-service.ipynb",
+   "name": "enable-app-insights-in-production-service",
+   "path": "how-to-use-azureml/deployment/enable-app-insights-in-production-service/enable-app-insights-in-production-service.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.3"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment"
+    ],
+    "authors": [
+     {
+      "name": "shipatel"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "enable-data-collection-for-models-in-aks.ipynb",
+   "name": "enable-data-collection-for-models-in-aks",
+   "path": "how-to-use-azureml/deployment/enable-data-collection-for-models-in-aks/enable-data-collection-for-models-in-aks.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.3"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment"
+    ],
+    "authors": [
+     {
+      "name": "shipatel"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "onnx-convert-aml-deploy-tinyyolo.ipynb",
+   "name": "onnx-convert-aml-deploy-tinyyolo",
+   "path": "how-to-use-azureml/deployment/onnx/onnx-convert-aml-deploy-tinyyolo.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "onnx"
+    ],
+    "authors": [
+     {
+      "name": "viswamy"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "onnx-inference-facial-expression-recognition-deploy.ipynb",
+   "name": "onnx-inference-facial-expression-recognition-deploy",
+   "path": "how-to-use-azureml/deployment/onnx/onnx-inference-facial-expression-recognition-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "onnx"
+    ],
+    "authors": [
+     {
+      "name": "viswamy"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "onnx-inference-mnist-deploy.ipynb",
+   "name": "onnx-inference-mnist-deploy",
+   "path": "how-to-use-azureml/deployment/onnx/onnx-inference-mnist-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "onnx"
+    ],
+    "authors": [
+     {
+      "name": "viswamy"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "onnx-modelzoo-aml-deploy-resnet50.ipynb",
+   "name": "onnx-modelzoo-aml-deploy-resnet50",
+   "path": "how-to-use-azureml/deployment/onnx/onnx-modelzoo-aml-deploy-resnet50.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "onnx"
+    ],
+    "authors": [
+     {
+      "name": "viswamy"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "onnx-train-pytorch-aml-deploy-mnist.ipynb",
+   "name": "onnx-train-pytorch-aml-deploy-mnist",
+   "path": "how-to-use-azureml/deployment/onnx/onnx-train-pytorch-aml-deploy-mnist.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment",
+     "onnx"
+    ],
+    "authors": [
+     {
+      "name": "viswamy"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "production-deploy-to-aks.ipynb",
+   "name": "production-deploy-to-aks",
+   "path": "how-to-use-azureml/deployment/production-deploy-to-aks/production-deploy-to-aks.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment"
+    ],
+    "authors": [
+     {
+      "name": "aashishb"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "production-deploy-to-aks-gpu.ipynb",
+   "name": "production-deploy-to-aks-gpu",
+   "path": "how-to-use-azureml/deployment/production-deploy-to-aks-gpu/production-deploy-to-aks-gpu.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.0"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment"
+    ],
+    "authors": [
+     {
+      "name": "aashishb"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "register-model-create-image-deploy-service.ipynb",
+   "name": "register-model-create-image-deploy-service",
+   "path": "how-to-use-azureml/deployment/register-model-create-image-deploy-service/register-model-create-image-deploy-service.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "deployment"
+    ],
+    "authors": [
+     {
+      "name": "aashishb"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "explain-model-on-amlcompute.ipynb",
+   "name": "explain-model-on-amlcompute",
+   "path": "how-to-use-azureml/explain-model/azure-integration/remote-explanation/explain-model-on-amlcompute.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "azure-integration"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "save-retrieve-explanations-run-history.ipynb",
+   "name": "save-retrieve-explanations-run-history",
+   "path": "how-to-use-azureml/explain-model/azure-integration/run-history/save-retrieve-explanations-run-history.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "azure-integration"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-explain-model-locally-and-deploy.ipynb",
+   "name": "train-explain-model-locally-and-deploy",
+   "path": "how-to-use-azureml/explain-model/azure-integration/scoring-time/train-explain-model-locally-and-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "azure-integration",
+     "scoring-time"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-explain-model-on-amlcompute-and-deploy.ipynb",
+   "name": "train-explain-model-on-amlcompute-and-deploy",
+   "path": "how-to-use-azureml/explain-model/azure-integration/scoring-time/train-explain-model-on-amlcompute-and-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "azure-integration",
+     "scoring-time"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "advanced-feature-transformations-explain-local.ipynb",
+   "name": "advanced-feature-transformations-explain-local",
+   "path": "how-to-use-azureml/explain-model/tabular-data/advanced-feature-transformations-explain-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "tabular-data"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "explain-binary-classification-local.ipynb",
+   "name": "explain-binary-classification-local",
+   "path": "how-to-use-azureml/explain-model/tabular-data/explain-binary-classification-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "tabular-data"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "explain-multiclass-classification-local.ipynb",
+   "name": "explain-multiclass-classification-local",
+   "path": "how-to-use-azureml/explain-model/tabular-data/explain-multiclass-classification-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "tabular-data"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "explain-regression-local.ipynb",
+   "name": "explain-regression-local",
+   "path": "how-to-use-azureml/explain-model/tabular-data/explain-regression-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "tabular-data"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "simple-feature-transformations-explain-local.ipynb",
+   "name": "simple-feature-transformations-explain-local",
+   "path": "how-to-use-azureml/explain-model/tabular-data/simple-feature-transformations-explain-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "explain-model",
+     "tabular-data"
+    ],
+    "authors": [
+     {
+      "name": "mesameki"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-data-transfer.ipynb",
+   "name": "aml-pipelines-data-transfer",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-data-transfer.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.2"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-getting-started.ipynb",
+   "name": "aml-pipelines-getting-started",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-getting-started.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-how-to-use-azurebatch-to-run-a-windows-executable.ipynb",
+   "name": "aml-pipelines-how-to-use-azurebatch-to-run-a-windows-executable",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-how-to-use-azurebatch-to-run-a-windows-executable.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-how-to-use-estimatorstep.ipynb",
+   "name": "aml-pipelines-how-to-use-estimatorstep",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-how-to-use-estimatorstep.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-parameter-tuning-with-hyperdrive.ipynb",
+   "name": "aml-pipelines-parameter-tuning-with-hyperdrive",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-parameter-tuning-with-hyperdrive.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sonnyp"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-publish-and-run-using-rest-endpoint.ipynb",
+   "name": "aml-pipelines-publish-and-run-using-rest-endpoint",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-publish-and-run-using-rest-endpoint.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-setup-schedule-for-a-published-pipeline.ipynb",
+   "name": "aml-pipelines-setup-schedule-for-a-published-pipeline",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-setup-schedule-for-a-published-pipeline.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-setup-versioned-pipeline-endpoints.ipynb",
+   "name": "aml-pipelines-setup-versioned-pipeline-endpoints",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-setup-versioned-pipeline-endpoints.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.2"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "mameghwa"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-use-adla-as-compute-target.ipynb",
+   "name": "aml-pipelines-use-adla-as-compute-target",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-use-adla-as-compute-target.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-use-databricks-as-compute-target.ipynb",
+   "name": "aml-pipelines-use-databricks-as-compute-target",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-use-databricks-as-compute-target.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.2"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-with-automated-machine-learning-step.ipynb",
+   "name": "aml-pipelines-with-automated-machine-learning-step",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-with-automated-machine-learning-step.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "aml-pipelines-with-data-dependency-steps.ipynb",
+   "name": "aml-pipelines-with-data-dependency-steps",
+   "path": "how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-with-data-dependency-steps.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines",
+     "intro-to-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "diray"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "nyc-taxi-data-regression-model-building.ipynb",
+   "name": "nyc-taxi-data-regression-model-building",
+   "path": "how-to-use-azureml/machine-learning-pipelines/nyc-taxi-data-regression-model-building/nyc-taxi-data-regression-model-building.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "pipeline-batch-scoring.ipynb",
+   "name": "pipeline-batch-scoring",
+   "path": "how-to-use-azureml/machine-learning-pipelines/pipeline-batch-scoring/pipeline-batch-scoring.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "pipeline-style-transfer.ipynb",
+   "name": "pipeline-style-transfer",
+   "path": "how-to-use-azureml/machine-learning-pipelines/pipeline-style-transfer/pipeline-style-transfer.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "machine-learning-pipelines"
+    ],
+    "authors": [
+     {
+      "name": "sanpil"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "authentication-in-azureml.ipynb",
+   "name": "authentication-in-azureml",
+   "path": "how-to-use-azureml/manage-azureml-service/authentication-in-azureml/authentication-in-azureml.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.9"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "manage-azureml-service"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "azure-ml-datadrift.ipynb",
+   "name": "azure-ml-datadrift",
+   "path": "how-to-use-azureml/monitor-models/data-drift/azure-ml-datadrift.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "monitor-models"
+    ],
+    "authors": [
+     {
+      "name": "rafarmah"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "logging-api.ipynb",
+   "name": "logging-api",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/logging-api/logging-api.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "manage-runs.ipynb",
+   "name": "manage-runs",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/manage-runs/manage-runs.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "tensorboard.ipynb",
+   "name": "tensorboard",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/tensorboard/tensorboard.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "deploy-model.ipynb",
+   "name": "deploy-model",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/using-mlflow/deploy-model/deploy-model.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments",
+     "using-mlflow"
+    ],
+    "authors": [
+     {
+      "name": "rastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-and-deploy-pytorch.ipynb",
+   "name": "train-and-deploy-pytorch",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/using-mlflow/train-deploy-pytorch/train-and-deploy-pytorch.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.7.3"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments",
+     "using-mlflow"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-local.ipynb",
+   "name": "train-local",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/using-mlflow/train-local/train-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments",
+     "using-mlflow"
+    ],
+    "authors": [
+     {
+      "name": "rastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-remote.ipynb",
+   "name": "train-remote",
+   "path": "how-to-use-azureml/track-and-monitor-experiments/using-mlflow/train-remote/train-remote.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "track-and-monitor-experiments",
+     "using-mlflow"
+    ],
+    "authors": [
+     {
+      "name": "rastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "logging-api.ipynb",
+   "name": "logging-api",
+   "path": "how-to-use-azureml/training/logging-api/logging-api.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "manage-runs.ipynb",
+   "name": "manage-runs",
+   "path": "how-to-use-azureml/training/manage-runs/manage-runs.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-hyperparameter-tune-deploy-with-sklearn.ipynb",
+   "name": "train-hyperparameter-tune-deploy-with-sklearn",
+   "path": "how-to-use-azureml/training/train-hyperparameter-tune-deploy-with-sklearn/train-hyperparameter-tune-deploy-with-sklearn.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "dipeck"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-in-spark.ipynb",
+   "name": "train-in-spark",
+   "path": "how-to-use-azureml/training/train-in-spark/train-in-spark.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "aashishb"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-on-amlcompute.ipynb",
+   "name": "train-on-amlcompute",
+   "path": "how-to-use-azureml/training/train-on-amlcompute/train-on-amlcompute.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "nigup"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-on-local.ipynb",
+   "name": "train-on-local",
+   "path": "how-to-use-azureml/training/train-on-local/train-on-local.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-on-remote-vm.ipynb",
+   "name": "train-on-remote-vm",
+   "path": "how-to-use-azureml/training/train-on-remote-vm/train-on-remote-vm.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-within-notebook.ipynb",
+   "name": "train-within-notebook",
+   "path": "how-to-use-azureml/training/train-within-notebook/train-within-notebook.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "using-environments.ipynb",
+   "name": "using-environments",
+   "path": "how-to-use-azureml/training/using-environments/using-environments.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "distributed-chainer.ipynb",
+   "name": "distributed-chainer",
+   "path": "how-to-use-azureml/training-with-deep-learning/distributed-chainer/distributed-chainer.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "distributed-cntk-with-custom-docker.ipynb",
+   "name": "distributed-cntk-with-custom-docker",
+   "path": "how-to-use-azureml/training-with-deep-learning/distributed-cntk-with-custom-docker/distributed-cntk-with-custom-docker.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "distributed-pytorch-with-horovod.ipynb",
+   "name": "distributed-pytorch-with-horovod",
+   "path": "how-to-use-azureml/training-with-deep-learning/distributed-pytorch-with-horovod/distributed-pytorch-with-horovod.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "distributed-tensorflow-with-horovod.ipynb",
+   "name": "distributed-tensorflow-with-horovod",
+   "path": "how-to-use-azureml/training-with-deep-learning/distributed-tensorflow-with-horovod/distributed-tensorflow-with-horovod.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "distributed-tensorflow-with-parameter-server.ipynb",
+   "name": "distributed-tensorflow-with-parameter-server",
+   "path": "how-to-use-azureml/training-with-deep-learning/distributed-tensorflow-with-parameter-server/distributed-tensorflow-with-parameter-server.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "export-run-history-to-tensorboard.ipynb",
+   "name": "export-run-history-to-tensorboard",
+   "path": "how-to-use-azureml/training-with-deep-learning/export-run-history-to-tensorboard/export-run-history-to-tensorboard.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "how-to-use-estimator.ipynb",
+   "name": "how-to-use-estimator",
+   "path": "how-to-use-azureml/training-with-deep-learning/how-to-use-estimator/how-to-use-estimator.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning",
+     "how-to-use-estimator"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "notebook_example.ipynb",
+   "name": "notebook_example",
+   "path": "how-to-use-azureml/training-with-deep-learning/how-to-use-estimator/notebook_example.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning",
+     "how-to-use-estimator"
+    ],
+    "authors": [
+     {
+      "name": "jingywa"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "tensorboard.ipynb",
+   "name": "tensorboard",
+   "path": "how-to-use-azureml/training-with-deep-learning/tensorboard/tensorboard.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-hyperparameter-tune-deploy-with-chainer.ipynb",
+   "name": "train-hyperparameter-tune-deploy-with-chainer",
+   "path": "how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-chainer/train-hyperparameter-tune-deploy-with-chainer.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "dipeck"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-hyperparameter-tune-deploy-with-keras.ipynb",
+   "name": "train-hyperparameter-tune-deploy-with-keras",
+   "path": "how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-keras/train-hyperparameter-tune-deploy-with-keras.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-hyperparameter-tune-deploy-with-pytorch.ipynb",
+   "name": "train-hyperparameter-tune-deploy-with-pytorch",
+   "path": "how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-pytorch/train-hyperparameter-tune-deploy-with-pytorch.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-hyperparameter-tune-deploy-with-tensorflow.ipynb",
+   "name": "train-hyperparameter-tune-deploy-with-tensorflow",
+   "path": "how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-tensorflow/train-hyperparameter-tune-deploy-with-tensorflow.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "ninhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "train-tensorflow-resume-training.ipynb",
+   "name": "train-tensorflow-resume-training",
+   "path": "how-to-use-azureml/training-with-deep-learning/train-tensorflow-resume-training/train-tensorflow-resume-training.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "training-with-deep-learning"
+    ],
+    "authors": [
+     {
+      "name": "hesuri"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "new-york-taxi.ipynb",
+   "name": "new-york-taxi",
+   "path": "how-to-use-azureml/work-with-data/dataprep/case-studies/new-york-taxi/new-york-taxi.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "case-studies",
+     "new-york-taxi"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "new-york-taxi_scale-out.ipynb",
+   "name": "new-york-taxi_scale-out",
+   "path": "how-to-use-azureml/work-with-data/dataprep/case-studies/new-york-taxi/new-york-taxi_scale-out.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "case-studies",
+     "new-york-taxi"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "add-column-using-expression.ipynb",
+   "name": "add-column-using-expression",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/add-column-using-expression.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "append-columns-and-rows.ipynb",
+   "name": "append-columns-and-rows",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/append-columns-and-rows.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "assertions.ipynb",
+   "name": "assertions",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/assertions.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "auto-read-file.ipynb",
+   "name": "auto-read-file",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/auto-read-file.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "cache.ipynb",
+   "name": "cache",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/cache.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "column-manipulations.ipynb",
+   "name": "column-manipulations",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/column-manipulations.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "column-type-transforms.ipynb",
+   "name": "column-type-transforms",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/column-type-transforms.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "custom-python-transforms.ipynb",
+   "name": "custom-python-transforms",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/custom-python-transforms.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "data-ingestion.ipynb",
+   "name": "data-ingestion",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/data-ingestion.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "data-profile.ipynb",
+   "name": "data-profile",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/data-profile.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "datastore.ipynb",
+   "name": "datastore",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/datastore.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "derive-column-by-example.ipynb",
+   "name": "derive-column-by-example",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/derive-column-by-example.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "external-references.ipynb",
+   "name": "external-references",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/external-references.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "filtering.ipynb",
+   "name": "filtering",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/filtering.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "fuzzy-group.ipynb",
+   "name": "fuzzy-group",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/fuzzy-group.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "impute-missing-values.ipynb",
+   "name": "impute-missing-values",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/impute-missing-values.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "join.ipynb",
+   "name": "join",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/join.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "label-encoder.ipynb",
+   "name": "label-encoder",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/label-encoder.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "min-max-scaler.ipynb",
+   "name": "min-max-scaler",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/min-max-scaler.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "one-hot-encoder.ipynb",
+   "name": "one-hot-encoder",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/one-hot-encoder.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "open-save-dataflows.ipynb",
+   "name": "open-save-dataflows",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/open-save-dataflows.ipynb",
+   "keys": {
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "quantile-transformation.ipynb",
+   "name": "quantile-transformation",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/quantile-transformation.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "random-split.ipynb",
+   "name": "random-split",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/random-split.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "replace-datasource-replace-reference.ipynb",
+   "name": "replace-datasource-replace-reference",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/replace-datasource-replace-reference.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "replace-fill-error.ipynb",
+   "name": "replace-fill-error",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/replace-fill-error.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "secrets.ipynb",
+   "name": "secrets",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/secrets.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "semantic-types.ipynb",
+   "name": "semantic-types",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/semantic-types.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "split-column-by-example.ipynb",
+   "name": "split-column-by-example",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/split-column-by-example.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "subsetting-sampling.ipynb",
+   "name": "subsetting-sampling",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/subsetting-sampling.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "summarize.ipynb",
+   "name": "summarize",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/summarize.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "working-with-file-streams.ipynb",
+   "name": "working-with-file-streams",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/working-with-file-streams.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "writing-data.ipynb",
+   "name": "writing-data",
+   "path": "how-to-use-azureml/work-with-data/dataprep/how-to-guides/writing-data.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.4"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "how-to-guides"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "getting-started.ipynb",
+   "name": "getting-started",
+   "path": "how-to-use-azureml/work-with-data/dataprep/tutorials/getting-started/getting-started.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.2"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "dataprep",
+     "tutorials"
+    ],
+    "authors": [
+     {
+      "name": "sihhu"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "datasets-diff.ipynb",
+   "name": "datasets-diff",
+   "path": "how-to-use-azureml/work-with-data/datasets/datasets-diff/datasets-diff.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "datasets"
+    ],
+    "authors": [
+     {
+      "name": "davx"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "tabular-dataset-tutorial.ipynb",
+   "name": "tabular-dataset-tutorial",
+   "path": "how-to-use-azureml/work-with-data/datasets/datasets-tutorial/tabular-dataset-tutorial.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.8"
+    },
+    "categories": [
+     "how-to-use-azureml",
+     "work-with-data",
+     "datasets"
+    ],
+    "authors": [
+     {
+      "name": "cforbe"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "img-classification-part1-training.ipynb",
+   "name": "img-classification-part1-training",
+   "path": "tutorials/img-classification-part1-training.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "tutorials"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "img-classification-part2-deploy.ipynb",
+   "name": "img-classification-part2-deploy",
+   "path": "tutorials/img-classification-part2-deploy.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.6"
+    },
+    "categories": [
+     "tutorials"
+    ],
+    "authors": [
+     {
+      "name": "roastala"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "regression-automated-ml.ipynb",
+   "name": "regression-automated-ml",
+   "path": "tutorials/regression-automated-ml.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.7"
+    },
+    "categories": [
+     "tutorials"
+    ],
+    "authors": [
+     {
+      "name": "jeffshep"
+     }
+    ]
+   }
+  },
+  {
+   "filename": "tutorial-1st-experiment-sdk-train.ipynb",
+   "name": "tutorial-1st-experiment-sdk-train",
+   "path": "tutorials/tutorial-1st-experiment-sdk-train.ipynb",
+   "keys": {
+    "language_info": {
+     "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+     },
+     "file_extension": ".py",
+     "mimetype": "text/x-python",
+     "name": "python",
+     "nbconvert_exporter": "python",
+     "pygments_lexer": "ipython3",
+     "version": "3.6.5"
+    },
+    "categories": [
+     "tutorials"
+    ],
+    "authors": [
+     {
+      "name": "trbye"
+     }
+    ]
+   }
+  }
+ ],
+ "categories": {
+  "tutorials": {
+   "ordering": -2,
+   "displayName": "Tutorials"
+  },
+  "how-to-use-azureml": {
+   "ordering": -1,
+   "collapsed": true,
+   "displayName": "How to use AzureML"
+  }
+ }
+}
